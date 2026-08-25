@@ -23,7 +23,7 @@ function submitForm() {
 
 <template>
   <div>
-    <h1>Student Information Form</h1>
+    <h1>Student Form</h1>
   </div>
 
   <form @submit.prevent="submitForm">
